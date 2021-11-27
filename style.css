@@ -2,9 +2,8 @@
     background-color: #fff !important;
 }
 
-
 .mybuttons > a > button {
-    background-color: #cb5601;
+    background-color: #ed1c24;
     color: #fff;
     border: none;
     outline: none;
@@ -32,7 +31,7 @@
 
 .active-item {
     background-color: #fff;
-    color: #cb5601 !important;
+    color: #ed1c24 !important;
     padding-left: 10px;
     border-top-right-radius: 100px;
     border-bottom-right-radius: 100px;
@@ -40,7 +39,7 @@
 }
 
 .side-menu {
-    background-color: #cb5601;
+    background-color: #ed1c24;
     height: 100vh;
     padding-top: 10px;
 }
@@ -61,7 +60,8 @@
 }
 
 .theme_background {
-    background-color: #cb5601 !important;
+    background-color: #ed1c24 !important;
+    border-radius: 100px;
 }
 
 .my-btn {
@@ -79,7 +79,7 @@
 }
 
 .stroke {
-    text-shadow: 2px 2px 2px #cb5601;
+    text-shadow: 2px 2px 2px #ed1c24;
 }
 
 .profile-div > img  {
@@ -107,7 +107,7 @@
 }
 
 .mybutton {
-    background-color: #cb5601;
+    background-color: #ed1c24;
     color: #fff;
     border: none;
     outline: none;
@@ -129,7 +129,7 @@
 }
 
 .small-btn {
-    background-color: #cb5601;
+    background-color: #ed1c24;
     color: #fff;
     border: none;
     outline: none;
@@ -193,7 +193,7 @@ tr > td {
 }
 
 .dish-category {
-    background-color: #cb5601;
+    background-color: #ed1c24;
     border-radius: 100px;
     padding: 5px 20px;
     color: #fff;
@@ -203,5 +203,5 @@ tr > td {
 }
 
 .swal-button {
-    background-color: #cb5601 !important;
+    background-color: #ed1c24 !important;
 }
